@@ -18,24 +18,24 @@ Head to `_data` and fill out either `projects.yml`, `experience.yml` and `educat
 
 Project example.
 ```yaml
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3 - Batch 1
-  date: Fall 2020
+- title: boite mail
+  event:Boubou's event
+  date: summer 2020
 ```
 
 Experience example.
 ```yaml
-- role: Open Source Fellow
-  company: MLH Fellowship
-  dates: Summer 2020
+- role: student 
+  company: usthb
+  dates: 2018-2021
   logo: fellowship.svg
 ```
 
 Education example.
 ```yaml
-- course: Explorer Fellow
-  institute: MLH Fellowship
-  dates: Fall 2020
+- course: computer science 
+  institute: usthb
+  dates: 2018-2021
   logo: fellowship.svg
 ```
 ## Add project posts
@@ -55,12 +55,7 @@ layout: page
 
 `projects.yml` with the `page-name` field.
 
-```yaml
-- title: Machine Learning Project
-  event: MLH Fellowship Explorer Sprint 3 - Batch 1
-  date: Fall 2020
-  page-name: sprint1
-```
+
 
 ## Development
 
